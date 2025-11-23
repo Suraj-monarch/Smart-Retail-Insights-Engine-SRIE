@@ -83,3 +83,6 @@ This project is recruiter-ready and can be showcased in:
 
 ## 👨‍💻 Author
 Project by **Suraj Rathod**  
+
+<img width="1919" height="1125" alt="Screenshot 2025-11-23 121405" src="https://github.com/user-attachments/assets/7f6c9cd1-c64b-4cb2-b1bf-82b4d8423be2" />
+
